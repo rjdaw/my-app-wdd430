@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'WDD 430 - First App';
+  h1 = 'WDD 430 - First App';
 }
